@@ -1,0 +1,1 @@
+Ennél egyszerűbb már nem is lehetne. Csak két anchor elem, egy button-nav osztállyal

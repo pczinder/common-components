@@ -1,0 +1,1 @@
+A Bootstrap nevű keretrendszer gombjait fogjuk létrehozni.
