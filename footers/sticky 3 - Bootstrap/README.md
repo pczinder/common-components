@@ -1,0 +1,1 @@
+Ennek a módszernek az az előnye, hogy nem kell használnod egy wrapper divet, mert a htmlelemet használja pozicionált konténerként. 
