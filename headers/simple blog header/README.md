@@ -1,0 +1,1 @@
+Az első mintakomponensünk ez az egyszerű és letisztult header lesz, tökéletes például egy blog számára

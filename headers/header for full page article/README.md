@@ -1,0 +1,1 @@
+AManapság egy népszerű designtrend blogokon és online publikációkban teljes ablakot kitöltő borítókat alkalmazni a bejegyzések, cikkek tetején.
